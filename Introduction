@@ -1,0 +1,53 @@
+* Machine Learning (ML) is the first level of AI
+It's a set of algorithms that learn from data to make predictions or decisions without being explicitly programmed.
+
+There are two main types of ML:
+Supervised Learning:
+- Learns from labeled data.
+- You give the model both the input data and the correct answers, so it learns to predict outcomes.
+
+Example: Predicting the price of a house based on features like size, location, and number of rooms.
+
+Unsupervised Learning:
+- Learns from unlabeled data.
+- The model finds patterns or groupings on its own.
+
+Example: Clustering similar customers into groups for targeted marketing.
+
+* Deep Learning (DL) is a subset of ML
+It uses neural networks, especially deep (multi-layered) ones, and is very powerful for:
+
+Images
+
+Text
+
+Audio
+
+Video
+
+Common Deep Learning Models:
+CNNs (Convolutional Neural Networks) – used for images
+
+Transformers – used for language tasks and now also vision tasks
+
+*LLMs (Large Language Models)
+LLMs are deep learning models that use transformers to understand and generate human language.
+They’re trained to predict the next token (word/part of word) in a sentence.
+
+Example: GPT (like ChatGPT) is an LLM.
+
+* Transformers (the architecture)
+Originally invented by Google (in the paper "Attention is All You Need") — not a Python library.
+But yes, there is a Transformers Python library by Hugging Face, which makes it easy to load and use pretrained transformer models like GPT, BERT, etc.
+
+* Computer Vision (CV)
+CV is a field in AI focused on teaching machines to understand images and videos.
+
+It’s not a model or algorithm by itself — it's a goal or problem area.
+
+CV uses DL models like:
+CNNs – for recognizing or classifying images
+
+YOLO (You Only Look Once) – for detecting and predicting objects inside images
+
+UNet / Mask R-CNN – for segmenting images (pixel-by-pixel tasks)
