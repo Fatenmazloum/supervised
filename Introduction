@@ -26,9 +26,9 @@ Audio
 Video
 
 Common Deep Learning Models:
-CNNs (Convolutional Neural Networks) – used for images
+- CNNs (Convolutional Neural Networks) – used for images
 
-Transformers – used for language tasks and now also vision tasks
+- Transformers – used for language tasks and now also vision tasks
 
 *LLMs (Large Language Models)
 LLMs are deep learning models that use transformers to understand and generate human language.
