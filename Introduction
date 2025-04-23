@@ -48,6 +48,6 @@ It’s not a model or algorithm by itself — it's a goal or problem area.
 CV uses DL models like:
 CNNs – for recognizing or classifying images
 
-YOLO (You Only Look Once) – for detecting and predicting objects inside images
+YOLO (You Only Look Once) – for detecting and predicting objects inside images-ready to use
 
 UNet / Mask R-CNN – for segmenting images (pixel-by-pixel tasks)
